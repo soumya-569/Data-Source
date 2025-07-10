@@ -1,0 +1,18 @@
+[
+    {
+        "relative_url":"olist_order_items_dataset.csv",
+        "file_name":"olist_order_items_dataset.csv"
+    },
+    {
+        "relative_url":"olist_order_payments_dataset.csv",
+        "file_name":"olist_order_payments_dataset.csv"
+    },
+    {
+        "relative_url":"olist_order_reviews_dataset.csv",
+        "file_name":"olist_order_reviews_dataset.csv"
+    },
+    {
+        "relative_url":"olist_orders_dataset.csv",
+        "file_name":"olist_orders_dataset.csv"
+    }
+]
