@@ -1,0 +1,5 @@
+[
+    {"reletive_url":"order_items.csv","file_name":"order_items.csv"},
+    {"reletive_url":"orders.csv","file_name":"orders.csv"},
+    {"reletive_url":"payment.csv","file_name":"payment.csv"}
+]
