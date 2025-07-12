@@ -1,0 +1,6 @@
+[
+    {"table_name":"customers","file_name":"customers.csv"},
+    {"table_name":"products","file_name":"products.csv"},
+    {"table_name":"shipments","file_name":"shipments.csv"},
+    {"table_name":"suppliers","file_name":"suppliers.csv"}
+]
